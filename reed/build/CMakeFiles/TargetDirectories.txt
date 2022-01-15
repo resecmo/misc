@@ -1,0 +1,3 @@
+/home/resecmo/rnd_prog/misc/reed/build/CMakeFiles/rebuild_cache.dir
+/home/resecmo/rnd_prog/misc/reed/build/CMakeFiles/edit_cache.dir
+/home/resecmo/rnd_prog/misc/reed/build/CMakeFiles/reed.dir
